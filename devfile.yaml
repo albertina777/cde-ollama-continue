@@ -7,7 +7,7 @@ projects:
   - name: cde-ollama-continue
     git:
       remotes:
-        origin: 'https://github.com/redhat-developer-demos/cde-ollama-continue'
+        origin: 'https://github.com/albertina777/cde-ollama-continue'
       checkoutFrom:
         revision: main
 components:
