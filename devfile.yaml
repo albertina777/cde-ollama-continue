@@ -25,7 +25,7 @@ components:
     container-overrides:
       resources:
         limits:
-          cpu: 6000m
+          cpu: 9000m
           memory: 12Gi
           # nvidia.com/gpu: 1 # Uncomment this if the pod shall be scheduled only on a GPU node
         requests:
